@@ -1,0 +1,1 @@
+# de.nickstrohm.school.weatherstation
